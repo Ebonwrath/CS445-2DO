@@ -1,0 +1,23 @@
+Primary: #6200EE
+
+Primary Variant: #3700B3
+
+Secondary: #03DAC6
+
+Secondary Variant: #018786
+
+Background: #FFFFFF
+
+Surface: #FFFFFF
+
+Error: #B00020
+
+On Primary: #FFFFFF
+
+On Secondary: #000000
+
+On Background: #000000
+
+On Surface: #000000
+
+On Error: #FFFFFF
